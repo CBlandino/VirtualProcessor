@@ -1,0 +1,81 @@
+Copy R1 1
+Copy R2 2
+Copy R3 3
+Copy R4 4
+Copy R5 5
+Copy R6 6
+Copy R7 7
+Copy R8 8
+Copy R9 9
+Copy R10 10
+Copy R11 11
+Copy R12 12
+Copy R13 13
+Copy R14 14
+Copy R15 15
+Copy R16 16
+Copy R17 17
+Copy R18 18
+Copy R19 19
+Copy R20 20
+Store R1 1
+Store R1 2
+Store R1 3
+Store R1 4
+Store R1 5
+Store R1 6
+Store R1 7
+Store R1 8
+Store R1 9
+Store R1 10
+Store R1 11
+Store R1 12
+Store R1 13
+Store R1 14
+Store R1 15
+Store R1 16
+Store R1 17
+Store R1 18
+Store R1 19
+Store R1 20
+Math add R1 R12 R21
+load R22 1 R1
+Math add R1 R12 R21
+load R22 2 R1
+Math add R1 R12 R21
+load R22 3 R1
+Math add R1 R12 R21
+load R22 4 R1
+Math add R1 R12 R21
+load R22 5 R1
+Math add R1 R12 R21
+load R22 6 R1
+Math add R1 R12 R21
+load R22 7 R1
+Math add R1 R12 R21
+load R22 8 R1
+Math add R1 R12 R21
+load R22 9 R1
+Math add R1 R12 R21
+load R22 10 R1
+Math add R1 R12 R21
+load R22 11 R1
+Math add R1 R12 R21
+load R22 12 R1
+Math add R1 R12 R21
+load R22 13 R1
+Math add R1 R12 R21
+load R22 14 R1
+Math add R1 R12 R21
+load R22 15 R1
+Math add R1 R12 R21
+load R22 16 R1
+Math add R1 R12 R21
+load R22 17 R1
+Math add R1 R12 R21
+load R22 18 R1
+Math add R1 R12 R21
+load R22 19 R1
+Math add R1 R12 R21
+load R22 20 R1
+halt
